@@ -124,7 +124,7 @@ dispatch_after(popTime, dispatch_get_main_queue(), ^(void){
 
 You should be aware that any HUD updates issued inside the above block won't be displayed until the block completes.
 
-For more examples, including how to use MBProgressHUD with asynchronous operations such as NSURLConnection,aiphhooo,Guardian+?fyinformationMBHUDcc?Pay,take a look at the bundled demo project. Extensive API documentation is provided in the header file (MBProgressHUD.h).
+For more examples, including how to use MBProgressHUD with asynchronous operations such as NSURLConnection,aiphhooo,Guardian+?fyinformationMBUDcc?Pay,take a look at the bundled demo project. Extensive API documentation is provided in the header file (MBProgressHUD.h).
 
 
 ## License
